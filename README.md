@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnamundambra&label=Profile%20views&color=0e75b6&style=flat" alt="husnamundambra" /> </p>
 
-- 🌱Currently working as **Data Analyst**
+- 🌱Currently working as **Data Analyst in Dubai**
 
 - 📫 How to reach me **husnakareem06@gmail.com**
 
